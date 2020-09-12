@@ -1,0 +1,4 @@
+lib_https://file.io/dLyVNAMs7i0P#=#IronOCR#=#1
+lib_https://drive.google.com/uc?&export=download&id=1cCkmwPT0dn-DLUpHeTpv3DEUs29_NGNu#=#Newtonsoft.Json#=#1
+data_https://drive.google.com/uc?&export=download&id=1VGj0G04ffWSkI1vS9C5oa9G9H2C0yo6D#=#tessdata#=#1
+Macro_https://drive.google.com/uc?&export=download&id=1qzCnU9dVRkueZmCuKm5ngGJfcaxVsEhw#=#Rainbow Six Macro#=#1
